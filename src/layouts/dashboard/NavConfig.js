@@ -41,6 +41,11 @@ const navConfig = [
     path: '/404',
     icon: getIcon('eva:alert-triangle-fill'),
   },
+  {
+    title: 'Test',
+    path: '/dashboard/test',
+    icon: getIcon('eva:test-triangle-fill'),
+  },
 ];
 
 export default navConfig;
